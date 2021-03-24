@@ -1,4 +1,4 @@
-# BotBot
+# BotBotBot
 a discord bot by TimSin
 and hopefully Christine
 
